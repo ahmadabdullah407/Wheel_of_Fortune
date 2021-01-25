@@ -1,8 +1,11 @@
 # Wheel_of_Fortune
 ## Description:
-This is final course Project of Python 4th course of Python 3 Programming Specialization offered by University of Michigan on Coursera.  
-This is a game of wheel of fortune played between a specified number of human players and computer players.
-There is 1 python code file as well as 2 json files that contain json format data required for code to run.
+- This is final course Project of Python 4th course of Python 3 Programming Specialization offered by University of Michigan on Coursera.  
+- This is a game of wheel of fortune played between a specified number of human players and computer players.
+- There is 1 [python code file]("https://github.com/ahmadabdullah407/Wheel_of_Fortune/blob/main/Wheel_of_Fortune.py") as well as 2 .json files that contain .json format data required for code to run.
+## Requirements:
+- You need Python 3 installed to run this code
+- This code requires random,json and time modules to run (All of them come builtin so you may not need to worry about it much)
 ## How to play:
 1. 1st of all computer will ask you "how many human player?" (you need to specify number of human players).
 2. Then computer will ask you name of each player (you need to specify name of each player).
