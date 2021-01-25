@@ -4,7 +4,7 @@
 - This is a game of wheel of fortune played between a specified number of human players and computer players.
 - There is 1 [python code file](https://github.com/ahmadabdullah407/Wheel_of_Fortune/blob/main/Wheel_of_Fortune.py) as well as 2 [.json](https://en.wikipedia.org/wiki/JSON#:~:text=JSON%20(JavaScript%20Object%20Notation%2C%20pronounced,or%20any%20other%20serializable%20value).) files ([phrases](https://github.com/ahmadabdullah407/Wheel_of_Fortune/blob/main/phrases.json) and [wheel](https://github.com/ahmadabdullah407/Wheel_of_Fortune/blob/main/wheel.json))that contain [.json](https://en.wikipedia.org/wiki/JSON#:~:text=JSON%20(JavaScript%20Object%20Notation%2C%20pronounced,or%20any%20other%20serializable%20value).) format data required for code to run.
 ## Requirements:
-- You need Python 3 installed to run this code
+- You need [Python 3](https://www.python.org/) installed to run this code
 - This code requires random,json and time modules to run (All of them come builtin so you may not need to worry about it much)
 ## How to play:
 1. 1st of all computer will ask you "how many human player?" (you need to specify number of human players).
